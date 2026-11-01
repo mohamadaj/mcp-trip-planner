@@ -1,0 +1,5 @@
+fastmcp
+openai-agents
+httpx
+python-dotenv
+pytest
