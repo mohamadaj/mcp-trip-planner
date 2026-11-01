@@ -1,3 +1,5 @@
+Mohamad El AJouz - 202401494
+Youtube link: https://youtu.be/JB3NeqRcmgs 
 # MCP Trip Planner
 
 An MCP toolkit built with **FastMCP** and connected to an agent built with the **OpenAI Agents SDK**.
@@ -50,7 +52,7 @@ mcp-trip-planner/
 Requires Python 3.10+.
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/mohamadaj/mcp-trip-planner.git 
 cd mcp-trip-planner
 python -m venv .venv
 
